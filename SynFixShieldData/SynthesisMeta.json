@@ -1,0 +1,9 @@
+{
+  "Nickname": "",
+  "Visibility": "Visible",
+  "OneLineDescription": "Fix incorrect shield material and impact set",
+  "LongDescription": "Fixes incorrect impact set and material for armor type Heavy/Light",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": []
+}
